@@ -1,5 +1,7 @@
 # borgbackup - main setup code (see also setup.cfg and other setup_*.py files)
 
+print("hahaha")
+
 import os
 import sys
 from collections import defaultdict
